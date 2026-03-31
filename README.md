@@ -6,7 +6,7 @@ A robust, full-stack web application built with Django that securely processes j
 <img width="1837" height="860" alt="django-application-form" src="https://github.com/user-attachments/assets/d5e7941d-1c68-443e-9017-7b95460db886" />
 
 ### Email sent
-<img width="1813" height="865" alt="Submission-mail" src="https://github.com/user-attachments/assets/6cdffad2-3828-4541-8041-5ab60f5603a1" />
+<img width="1796" height="857" alt="django-email" src="https://github.com/user-attachments/assets/782abea8-2c26-40bf-abde-f9126d0f88e3" />
 
 ### Administration login
 <img width="553" height="447" alt="django-login" src="https://github.com/user-attachments/assets/87bb966e-2ff4-4cf3-8fe5-6afd2609f123" />

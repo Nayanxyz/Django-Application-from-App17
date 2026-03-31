@@ -9,4 +9,5 @@ class FormAdmin(admin.ModelAdmin):
     ordering = ("-first_name", ) # - to reverse alphabatically
     readonly_fields = ("occupation",)
 
+
 admin.site.register(Form, FormAdmin)

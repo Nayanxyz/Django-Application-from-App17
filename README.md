@@ -38,8 +38,8 @@ Follow these steps to replicate the development environment and run the applicat
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Nayanxyz/Django-Application-from-App17.git
-cd Django-Application-from-App17
+git clone https://github.com/Nayanxyz/Django-Application-form-App17.git
+cd Django-Application-form-App17
 ```
 ### 2. Install Dependencies
 ```bash
